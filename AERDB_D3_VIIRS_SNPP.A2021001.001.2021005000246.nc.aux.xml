@@ -1,0 +1,14 @@
+<PAMDataset>
+  <Subdataset name="Aerosol_Optical_Thickness_550_Land_Mean">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">1.3471382856369</MDI>
+          <MDI key="STATISTICS_MEAN">0.1774670854452</MDI>
+          <MDI key="STATISTICS_MINIMUM">0.013666839338839</MDI>
+          <MDI key="STATISTICS_STDDEV">0.18531788917696</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
